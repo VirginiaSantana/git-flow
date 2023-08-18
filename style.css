@@ -5,9 +5,9 @@
 
 /* add some color to the body 🎨 */
 body {
-    height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
     background-color: blueviolet;
+}
+header {
+    background-color: aqua;
+    display: flex;
 }
