@@ -3,11 +3,15 @@
     margin: 0;
 }
 
-/* add some color to the body 🎨 */
 body {
     background-color: blueviolet;
 }
 header {
     background-color: aqua;
     display: flex;
+}
+footer {
+    display: flex;
+    margin-bottom: 0px;
+    background-color: brown;
 }
