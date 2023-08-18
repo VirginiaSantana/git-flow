@@ -3,9 +3,14 @@
     margin: 0;
 }
 
-body {
-    height: 100vh;
+footer {
     display: flex;
-    justify-content: center;
-    align-items: center;
+    margin-bottom: 0px;
+    background-color: brown;
 }
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-content: space-between;
+}   
